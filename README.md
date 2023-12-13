@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sakthi-Developer
 - 👀 I’m interested in Machine Learning 🧠, Developing Mobile App 👨‍💻, Hacking 🤖, Web Developement, Software Developement and Explore New Things 🔭. 
-- 🌱 I’m currently learning Machine Learning 🧠... 
+- 🌱 I’m currently learning Machine Learning 🧠 and App Development 👨‍💻.
 - 💞️ I’m looking to collaborate on Machine Learning Modules 🧠, Software Developement 💻, Hacking Tools ⚒️, Developing Mobile Application 📱and more... 
 - 📫 How to reach me 📬 sakthir.developer@gmail.com
 
