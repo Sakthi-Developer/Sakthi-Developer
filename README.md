@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 👨‍💻 All of my projects are available at [https://sakthi-developer.github.io/](https://sakthi-dev-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sakthi-dev-portfolio.vercel.app/](https://sakthi-dev-portfolio.vercel.app/)
 
 - 💬 Ask me about **Kotlin, Android**
 
